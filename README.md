@@ -1,5 +1,11 @@
 # CommerceX
 
+- Online shopping site for digital accessories
+- API
+- SPA
+- Information medal
+- Product purchase and price calculation according to the number and type of product
+
 ![Screenshot 2023-12-22 181807](https://github.com/aida-mousavi/CommerceX/assets/115708698/2e158fce-7365-4729-a953-e8840e063636)
 ![Screenshot 2023-12-22 181825](https://github.com/aida-mousavi/CommerceX/assets/115708698/1335ab5c-c636-4cba-b90a-cf498fe8cd27)
 ![Screenshot 2023-12-22 181849](https://github.com/aida-mousavi/CommerceX/assets/115708698/c605393c-9eb7-4e6e-a4ef-6b2c6e7f4cc6)
